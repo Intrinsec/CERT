@@ -1,6 +1,6 @@
 # CERT
 
-Ce dépôt contient les éléments publiées par le CERT Intrinsec
+Ce dépôt contient les éléments publiés par le CERT Intrinsec
 
 # Voir aussi 
 [Site internet](https://www.intrinsec.com)

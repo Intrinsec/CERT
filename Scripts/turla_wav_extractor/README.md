@@ -1,5 +1,5 @@
 # TURLA WAV Decoder
-Script python utilisé pour l'extration de WAV lors d'une investigation
+Script python utilisé pour l'extraction de WAV lors d'une investigation
 
 ## Utilisation
 
